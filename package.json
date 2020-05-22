@@ -1,0 +1,22 @@
+{
+  "name": "electron-image-shrink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kpizzle/electron-image-shrink.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kpizzle/electron-image-shrink/issues"
+  },
+  "homepage": "https://github.com/Kpizzle/electron-image-shrink#readme",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
